@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Nfrench-number-practice/static/js/main.32bc1c89.js",
-    "index.html": "/Nfrench-number-practice/index.html",
-    "main.32bc1c89.js.map": "/Nfrench-number-practice/static/js/main.32bc1c89.js.map"
+    "main.js": "/french-number-practice/static/js/main.eca5510b.js",
+    "index.html": "/french-number-practice/index.html",
+    "main.eca5510b.js.map": "/french-number-practice/static/js/main.eca5510b.js.map"
   },
   "entrypoints": [
-    "static/js/main.32bc1c89.js"
+    "static/js/main.eca5510b.js"
   ]
 }
