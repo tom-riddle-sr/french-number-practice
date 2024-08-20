@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/tom-riddle-sr/french-number-practice/static/js/main.eca5510b.js",
+    "main.js": "/tom-riddle-sr/french-number-practice/static/js/main.cfe25874.js",
     "index.html": "/tom-riddle-sr/french-number-practice/index.html",
-    "main.eca5510b.js.map": "/tom-riddle-sr/french-number-practice/static/js/main.eca5510b.js.map"
+    "main.cfe25874.js.map": "/tom-riddle-sr/french-number-practice/static/js/main.cfe25874.js.map"
   },
   "entrypoints": [
-    "static/js/main.eca5510b.js"
+    "static/js/main.cfe25874.js"
   ]
 }
